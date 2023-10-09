@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/tissot/G" name="Evolution-X-Devices/device_xiaomi_tissot.git" remote="github" revision="tiramisu" />
+ <project path="vendor/tissot" name="Evolution-X-Devices/vendor_xiaomi_tissot.git" remote="github" revision="tiramisu" />
+ <project path="kernel/tissot/G" name="Evolution-X-Devices/kernel_xiaomi_tissot.git" remote="github" revision="tiramisu2" />
+ 
+</manifest>
